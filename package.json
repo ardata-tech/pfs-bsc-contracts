@@ -1,0 +1,18 @@
+{
+  "name": "pfs-bsc-contracts",
+  "version": "1.0.0",
+  "description": "Simple file storage with PFStorage and Binance Testnet",
+  "main": "truffle-config.js",
+  "keywords": [
+    "ipfs",
+    "blockchain",
+    "decentralized-systems",
+    "distributed-systems"
+  ],
+  "author": "alvin.reyes@proofsys.io",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "dotenv": "^8.2.0"
+  }
+}
